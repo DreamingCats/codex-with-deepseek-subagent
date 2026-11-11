@@ -1,0 +1,3 @@
+在Codex中并发调用deepseek的API，整合两者回答。
+
+直接把这个url丢给你的Codex，让它帮你装。装好后在.env替换为你自己的DEEPSEEK_API_KEY。
